@@ -1,2 +1,2 @@
 # C
-Lenguaje C - Ejercicios DAW/DAM
+Lenguaje C - Ejercicios de programación DAW/DAM
