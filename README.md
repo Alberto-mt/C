@@ -1,3 +1,2 @@
-<div style="background-color:powderblue;"> # C</div>
-##  Lenguaje C - Ejercicios de programación DAW/DAM
-[![c](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)]()
+# [![C](https://img.shields.io/badge/LENGUAJE_C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
+ - Ejercicios de programación DAW/DAM
