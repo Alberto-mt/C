@@ -8,7 +8,16 @@
 
 #include <stdio.h>
 
-int main(){
+void	f_calcularIMC();
+
+int	main(){
+	f_calcularIMC();
+	
+	return (0);
+}
+
+void	f_calcularIMC()
+{
 	float peso, altura;	
 
 	printf("Introduzca un peso: ");
@@ -16,7 +25,5 @@ int main(){
 	printf("Introduzca una altura: ");
 	scanf("%f", &altura);
 	
-	printf("Con un peso de %g kg. y una altura de %g m. el IMC es %g", peso, altura, peso/(altura*altura));
-	
-	return (0);
+	printf("\nCon un peso de %g kg. y una altura de %g m. el IMC es %g", peso, altura, peso/(altura*altura));
 }
